@@ -1,6 +1,6 @@
 # Frontend Assignment
-
-
+To run the unit tests using Vitest, use the following command: - npx vitest
+To run the development server locally, use the following command:- npm run dev
 ## Assignment
 
 You are required to fetch the details of the highly-rated kickstarter projects by implementing an AJAX call to their APIs.
